@@ -68,7 +68,7 @@ O objetivo do projeto foi praticar lógica de programação, estruturas de repet
 
 <p align="center">
   Lucas Benfatti <br>
-  📍 Santos - SP
+  📍 SP - Brasil
 </p>
 
 ---
